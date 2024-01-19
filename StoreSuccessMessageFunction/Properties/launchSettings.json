@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "StoreSuccessMessageFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7225",
+      "launchBrowser": false
+    }
+  }
+}

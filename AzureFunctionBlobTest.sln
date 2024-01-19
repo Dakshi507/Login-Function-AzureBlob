@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login\Login.csproj", "{AA48AD9B-3118-4A23-B426-6CBF60DF2DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreSuccessMessageFunction", "StoreSuccessMessageFunction\StoreSuccessMessageFunction.csproj", "{8466E7DE-8F9A-47E9-9830-44D2D839B7A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA48AD9B-3118-4A23-B426-6CBF60DF2DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA48AD9B-3118-4A23-B426-6CBF60DF2DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA48AD9B-3118-4A23-B426-6CBF60DF2DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA48AD9B-3118-4A23-B426-6CBF60DF2DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8466E7DE-8F9A-47E9-9830-44D2D839B7A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8466E7DE-8F9A-47E9-9830-44D2D839B7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8466E7DE-8F9A-47E9-9830-44D2D839B7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8466E7DE-8F9A-47E9-9830-44D2D839B7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DE96FDB-D3CA-4920-A00C-7757DBE0334B}
+	EndGlobalSection
+EndGlobal
